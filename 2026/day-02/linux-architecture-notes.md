@@ -2,7 +2,7 @@
 - Why? --> Used for DevOps to master the operating system
 - How? --> Application -> Shell -> Kernel
 
- **Bold Text** FUNDAMENTAL COMPONENT OF LINUX:
+  **FUNDAMENTAL COMPONENT OF LINUX:**
  
 Hardware: It is a component where is OS is installed
 Firmware: It is a component which connects the interface of hardware with software and where kernel is installed
