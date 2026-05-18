@@ -20,9 +20,9 @@ Process States:
 4. Zombie: The Process has been terminated    
 
 5 Commands used daily
-pwd: to know your current working directory on a working terminal 
-ls: to list files and folders
-touch: to create a text file
-Vim: to edit a text file
+1. pwd: to know your current working directory on a working terminal
+2. ls: to list files and folders
+3. touch: to create a text file
+4. Vim: to edit a text file
  
 
