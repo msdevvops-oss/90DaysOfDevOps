@@ -1,6 +1,6 @@
-WHAT? —-> It is an Operating System (OS)  90% used in Companies
-Why? --> Used for DevOps to master the operating system
-How? --> Application -> Shell -> Kernel
+> WHAT? —-> It is an Operating System (OS)  90% used in Companies
+> Why? --> Used for DevOps to master the operating system
+> How? --> Application -> Shell -> Kernel
 
  FUNDAMENTAL COMPONENT OF LINUX:
 Hardware: It is a component where is OS is installed
