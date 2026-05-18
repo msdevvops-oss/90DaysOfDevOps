@@ -1,13 +1,13 @@
-LINUX COMMAND CHEAT SHEET
+**LINUX COMMAND CHEAT SHEET**
 
-PROCESS AND MANAGEMENT COMMANDS: 
+**PROCESS AND MANAGEMENT COMMANDS:**
 1. ps: Shows running command
 2. top: Real time process monitoring
 3. htop: Shows Inactive Command
 4. pkill (name): Kill processes by name
 5. ps aux: Display full snapshot of running command
 
-FILE SYSTEM COMMANDS:
+**FILE SYSTEM COMMANDS:**
 1. pwd: shows current working directory
 2. mkdir: create new directory
 3. touch: create new file
@@ -21,7 +21,7 @@ FILE SYSTEM COMMANDS:
 11. tail x: display last line
 12. rmdir: rmeove directory 
 
-NETWORKING TROUBLESHOOTING COMMANDS:
+**NETWORKING TROUBLESHOOTING COMMANDS:**
 
 1. ping: check connectivity
 2. ipconfig: view network id
