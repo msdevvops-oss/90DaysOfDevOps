@@ -13,6 +13,6 @@
 
 # Log Commands
 * `journalctl -p err` - Display Errors
-![snapshot](imgaes/image4.png)
+![snapshot](IMGAES/image4.png)
 * `tail -n 10 /var/log/dpkg.log` - Shows recent package installed
 ![snapshot](IMGAES/image3.png)
