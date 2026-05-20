@@ -3,7 +3,7 @@
 
 ### Quick troubleshooting steps if any err pops up.
 
-## Enviroonment Basic
+## Enviroment Basic
 
 * Command : `uname -r` `uname -a`
 Output: ![snapshot](IMAGE/img1.png) 
