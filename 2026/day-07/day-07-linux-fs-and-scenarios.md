@@ -26,7 +26,7 @@
 * `sbin` -  is where system administration and normal user commands are stored. 
 ![snapshot](IMG/IMG7.png)![snapshot](IMG/IMG8.png)
 
-# Scenario Based Prctice 
+# Scenario Based Practice 
 
 ## Scenario 1: Service not starting
 A service called 'ssh' failed to start after a server reboot.
