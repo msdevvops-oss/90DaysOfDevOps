@@ -28,7 +28,7 @@
 
 # Scenario Based Prctice 
 
-## Scenario 1: Service not startingi
+## Scenario 1: Service not starting
 A service called 'ssh' failed to start after a server reboot.
 What commands would you run to diagnose the issue?
 Write at least 4 commands in order.
