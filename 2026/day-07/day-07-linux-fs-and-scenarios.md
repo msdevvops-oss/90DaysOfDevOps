@@ -3,7 +3,7 @@
 
 * `/ (root)`- is where your entire Linux system lives, the starting point of everything
 
-![snapshot](IMG/IMG1.pngIMG1.png)
+![snapshot](IMG/IMG1.png)
 
 * `/home` - is where personal files and settings for each user are stored. Every user on the system gets their own folder inside /home.
 ![snapshot](IMG/IMG2.png)
